@@ -1,0 +1,83 @@
+.container {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.checkbox {
+    width: 5%;
+    height: 40px;
+    margin: 0%;
+    padding: 0%;
+    vertical-align: middle;
+}
+
+.text {
+    height: 35px;
+    width: 70%;
+    font-size: 1em;
+    font-family: MONOSPACE;
+}
+
+/*<editor-fold defaulfstate='collapsed' desc = 'FormInput Styles'>*/
+header h1 {
+    margin-bottom: 0%;
+}
+
+.red {
+    color: #ff625d;
+}
+
+.app-name {
+    font-size: 100px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+/*</editor-fold>*/
+
+
+/*<editor-fold defaulfstate='collapsed' desc = 'MainSection Styles'>*/
+.main-section {
+    margin-top: 0%;
+}
+
+.task-list {
+    margin-top: 3%;
+}
+
+.text-main {
+    width: 68%;
+}
+
+/*</editor-fold>*/
+
+/*<editor-fold defaulfstate='collapsed' desc = 'Footưe Styles'>*/
+footer {
+    margin: 3% 10% 0% 10%;
+}
+
+.footer-button {
+    border: 1px solid #d8d8d8;
+    border-radius: 15%;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.footer-button:hover {
+    border: 1px solid gray;
+}
+
+.clear-button {
+    border: none;
+    background-color: white;
+}
+
+.clear-button:hover {
+    color: #4cbcfb;
+    text-decoration: underline;
+}
+
+/*</editor-fold >*/
